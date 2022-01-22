@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">product with recycle view with Intent</string>
+    <string name="Iphone_12_64GB">iPhone12 64GB</string>
+    <string name="Samsung_Galaxy_S21_Ultra">Samsung Galaxy S21 Ultra</string>
+    <string name="Xiaomi_11T_Pro">Xiaomi 11T Pro</string>
+    <string name="Huawei_Y6p">Huawei Y6p</string>
+    <string name="Samsung_Galaxy_Z_Flip3">Samsung Galaxy Z Flip3</string>
+    <string name="Iphone_13">iPhone 13</string>
+    <string name="Samsung_Galaxy_S20_FE">Samsung Galaxy S20 FE</string>
+    <string name="Samsung_Galaxy_S21">Samsung Galaxy S21</string>
+    <string name="OPPO_Reno_5_Pro">OPPO Reno 5 Pro</string>
+    <string name="Iphone_11">iPhone 11</string>
+    <string name="hello">hello</string>
+    <string name="buy">buy</string>
+</resources>
